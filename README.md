@@ -12,9 +12,14 @@ This project is usefull because it runs as a basic game and can teach you the fu
 ## To use this project
 
 To use this project user must download 2 pictures of choice :
+
+
 1.Download player picture and rename to Image.png
+
 2.Download enemy picture and rename to Enemy.png
+
 3.Download reward picture and rename to award.png 
+
 
 A user can download code from the repo and can run the file in any python IDE.
 
