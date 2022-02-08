@@ -5,6 +5,7 @@ Calculate the amount for a loan.
 
 
 ##How it works
+
 The user has to enter if they want to :
 1.Calculate earnings on investment
 2.Calculate the amount for a loan.
