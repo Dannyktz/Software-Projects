@@ -1,10 +1,10 @@
-##Finance Calculator##
+# Finance Calculator
 
 This application is used to calculate the earnings on an investment or 
 Calculate the amount for a loan.
 
 
-##How it works
+## How it works
 
 The user has to enter if they want to :
 1.Calculate earnings on investment
@@ -26,12 +26,12 @@ User will enter the following :
 
 The computer will then display the amount of the loan depending on the input of the user.
 
-##Who will user this project
+## Who will user this project
 
 1.This project is for anyone that would like to calculate the amount of their investment over a time 
 2.This project is for people that would like to calculate montly cost on a loan.
 
-##How to use
+## How to use
 
 To user this project you will need Python . You can simply run the program and enter all the user input in the Terminal .
 The output will also be displayed on the Terminal.
