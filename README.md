@@ -1,4 +1,4 @@
-##Finance Calculator
+##Finance Calculator##F
 
 This application is used to calculate the earnings on an investment or 
 Calculate the amount for a loan.
