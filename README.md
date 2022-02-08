@@ -4,9 +4,13 @@ This project is used for construction use. It captures all the information about
 *It is used to:*
 
 1.Keep track of howmuch has been payed 
+
 2.Print invoices
+
 3.Change amount that has been payed.
+
 4.Change due date
+
 5.Finilize the project
 
 ## How it works
