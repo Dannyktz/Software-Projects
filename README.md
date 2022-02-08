@@ -10,12 +10,14 @@ The user has to enter if they want to :
 2.Calculate the amount for a loan.
 
 *If user entered 1(investment)*
+
 User will enter amount they are depositing,interest rate,the amount of years for investment 
 and if it is simple or compound
 The computer will then display the amount of the investment depending on the input of the user.
 
 
 *If user entered 1(loan)*
+
 User will enter the following :
 1.Value of the property
 2.interest rate
