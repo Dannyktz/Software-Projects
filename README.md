@@ -31,14 +31,18 @@ After the user has changed values or displayed the graph , the new values will b
 
 ## To use this program
 
-1. To use this program user must download inventory.py and inventory.txt.
+1.To use this program user must download inventory.py and inventory.txt.
+
 
 If user would like to enter own values to textfile the format must be :
 
 (Country,code,product,cost,quantity)
 
+
 2.Have python and a python IDE installed.
+
 3.The user should run the program and enter correct user inputs.
+
 
 Enter one of the options to change values or display items in graph.
 
