@@ -13,7 +13,7 @@ This project is used for construction use. It captures all the information about
 
 4.Change due date
 
-5.Finilize the project
+5.Finalise the project
 
 ## How it works
 
