@@ -1,0 +1,6 @@
+Danny House,1,1000000.0,2000.0,14,'House','28 Shane',13/10/0025,false
+Shane Wall,2,2000.0,400.0,13,"Wall","Staten Island",20/11/2022,true
+Gerhard Garage,3,20000.0,400.0,14,"Garage","20 Money lane",01/05/2022,false
+Mandie Gate,4,1000.0,200.0,10,'Gate','29 State',20/05/2021,true
+Alex's Door,5,1000.0,30.0,1,'Door','57 Maple',01/01/2023,false
+Nadz Building,6,10000.0,1000.0,300,Building,28 Mikele,04/02/2022,true

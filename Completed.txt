@@ -1,0 +1,6 @@
+Mandie Gate,4,1000.0,200.0,10,Gate,29 State,Sat Apr 02 00:00:00 SAST 2022,true
+Shane Wall,2,2000.0,400.0,13,Wall,Staten Island,Thu Apr 20 00:00:00 SAST 2023,true
+Nadz Building,6,10000.0,3000.0,300,Building,28 Mikele,Thu Apr 20 00:00:00 SAST 2023,true
+
+
+
